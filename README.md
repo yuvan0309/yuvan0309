@@ -26,3 +26,9 @@ Here's a selection of some of my public repositories:
 
 ### 💻 **Contact**  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yuvanshankarraja) or drop a message [via email](mailto:yuvan7480@gmail.com). Let’s build something amazing together!
+
+<h1 align="center">Hi 👋, I'm Yuvan</h1
+<p align="left"><a href="https://github.com/Yuvan0309"><img src="https://github-profile-trophy.vercel.app/?username=Yuvan0309" alt="Yuvan0309" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuvan0309&show_icons=true&locale=en&layout=compact"alt="Yuvan0309" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuvan0309&show_icons=true&locale=en" alt="Yuvan0309" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvan0309&" alt="Yuvan0309" /></p>
