@@ -1,0 +1,51 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: <your-username>
+          template: classic
+          base: ""
+          config_display: columns
+          config_timezone: <your-timezone>
+          config_order: activity, community, repositories, metadata
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: public
+          plugin_activity_limit: 5
+          plugin_activity_timestamps: yes
+          plugin_activity_load: 300
+          plugin_activity_skipped: ""
+          plugin_activity_ignored: ""
+          plugin_stargazers: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_lines: yes
+          plugin_notable: yes
+          plugin_languages: yes
+          plugin_languages_ignored: ""
+          plugin_languages_skipped: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
