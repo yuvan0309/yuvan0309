@@ -52,5 +52,5 @@ Here's a selection of some of my public repositories:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yuvanshankarraja) or drop a message via [email](mailto:yuvan7480@gmail.com). Let’s build something amazing together!
 ---
 
-
+![Metrics](https://github.com/yuvan0309/yuvan0309/blob/main/github-metrics.svg)
 
