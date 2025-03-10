@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Yuvan Shankar Raja
 
 ### 🎯 **About Me**  
-I'm currently a student at **Cambridge Institute of Technology**, pursuing my Computer Science Engineering while exploring my passion for coding and technology. Recently, I completed a **Internship as a Data Analyst at Xcel Corp**, where I gained valuable experience in data analysis and problem-solving.  
+I'm currently a student at **Cambridge Institute of Technology**, pursuing my Computer Science Engineering while exploring my passion for coding and technology.
 
 **Skills:**  
-- Python, C, Data Analysis ,Power BI, Tableau
-- SQL, HTML , CSS , JavaScript
+- Python, C, C++ ,Data Analysis ,Power BI, Tableau
+- SQL, Machine Learning 
 - Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
 ---
 
