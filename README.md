@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yuvan Shankar Raja
 
 ### 🎯 **About Me**  
-I'm currently a student at **Cambridge Institute of Technology**, pursuing my Computer Science Engineering while exploring my passion for coding and technology.
+I'm currently a student at **Cambridge Institute of Technology**, pursuing my Computer Science Engineering while exploring my passion in Data Science and Buisness Analytics.
 
 **Skills:**  
 - Python, C, C++ ,Data Analysis ,Power BI, Tableau
