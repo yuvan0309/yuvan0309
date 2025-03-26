@@ -13,7 +13,7 @@ I'm currently a student at **Cambridge Institute of Technology**, pursuing my Co
 Here's a selection of some of my public repositories:
 
 1. **[Project](https://github.com/yuvan0309/project)**  
-   *Languages: C, Java, Python, SQL*  
+   *Languages: C, C++, Python, SQL*  
    A collection of various coding exercises and small projects demonstrating my expertise in multiple programming languages.
 
 2. **[Guessing Game](https://github.com/yuvan0309/-guessinggame)**  
