@@ -52,6 +52,6 @@ Here's a selection of some of my public repositories:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yuvanshankarraja) or drop a message via [email](mailto:yuvan7480@gmail.com). Let’s build something amazing together!
 ---
 
-![GitHub Activity Graph](https://raw.githubusercontent.com/yuvan0309/yuvan0309/main/github_activity.png)
+
 
 
