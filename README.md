@@ -12,23 +12,22 @@ I'm currently a student at **Cambridge Institute of Technology**, pursuing my Co
 ### 🚀 **My Projects**  
 Here's a selection of some of my public repositories:
 
-1. **[Project](https://github.com/yuvan0309/Credit-Score)**  
-   *Languages: Python*
-   *Pkgs: numpy,pandas,scikit-learn,imblearn,matplotlib,seaborn*
+1. **[Credit-Score](https://github.com/yuvan0309/Credit-Score)**  
+   *Languages: Python*  
+   *Pkgs: numpy, pandas, scikit-learn, Faker, imblearn, matplotlib, seaborn*  
    A Credit-Score based Model which finds the credit score from the given dataset.
+   
 3. **[Guessing Game](https://github.com/yuvan0309/-guessinggame)**  
    A fun project I forked and contributed to, showcasing my problem-solving skills in C.
 
 4. **[Library Project](https://github.com/yuvan0309/library-project)**  
+   *Languages: HTML,Python*  
    A small web-based library management system written in HTML.
 
 ---
 
 ### 📊 **My GitHub Stats**
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuvan0309&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" />
-</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Yuvan0309&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
@@ -51,7 +50,3 @@ Here's a selection of some of my public repositories:
 ### 💻 **Contact**  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yuvanshankarraja) or drop a message via [email](mailto:yuvan7480@gmail.com). Let’s build something amazing together!
 ---
-
-
-
-
