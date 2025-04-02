@@ -12,14 +12,14 @@ I'm currently a student at **Cambridge Institute of Technology**, pursuing my Co
 ### 🚀 **My Projects**  
 Here's a selection of some of my public repositories:
 
-1. **[Project](https://github.com/yuvan0309/project)**  
-   *Languages: C, C++, Python, SQL*  
-   A collection of various coding exercises and small projects demonstrating my expertise in multiple programming languages.
-
-2. **[Guessing Game](https://github.com/yuvan0309/-guessinggame)**  
+1. **[Project](https://github.com/yuvan0309/Credit-Score)**  
+   *Languages: Python*
+   *Pkgs: numpy,pandas,scikit-learn,imblearn,matplotlib,seaborn*
+   A Credit-Score based Model which finds the credit score from the given dataset.
+3. **[Guessing Game](https://github.com/yuvan0309/-guessinggame)**  
    A fun project I forked and contributed to, showcasing my problem-solving skills in C.
 
-3. **[Library Project](https://github.com/yuvan0309/library-project)**  
+4. **[Library Project](https://github.com/yuvan0309/library-project)**  
    A small web-based library management system written in HTML.
 
 ---
