@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuvan Shankar Raja
+# Hi, I'm Yuvan Shankar Raja 👋
 
 ### 🎯 **About Me**  
 I'm currently a student at **Cambridge Institute of Technology**, pursuing my Computer Science Engineering while exploring my passion in Data Science and Buisness Analytics.
