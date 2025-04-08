@@ -17,7 +17,7 @@ Here's a selection of some of my public repositories:
    *Pkgs: numpy, pandas, scikit-learn, Faker, imblearn, matplotlib, seaborn*  
    A Credit-Score based Model which finds the credit score from the given dataset.
 
-***Working on ...***
+2. **Working on ...**
 ---
 
 ### 📊 **My GitHub Stats**
