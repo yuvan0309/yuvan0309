@@ -12,7 +12,7 @@ I'm currently a student at **Cambridge Institute of Technology**, pursuing my Co
 ### 🚀 **My Projects**  
 Here's a selection of some of my public repositories:
 
-1. **[Credit-Score](https://github.com/yuvan0309/Credit-Score)**  
+1. **[CIBIL](https://github.com/yuvan0309/Credit-Score)**  
    *Languages: Python*  
    *Pkgs: numpy, pandas, scikit-learn, Faker, imblearn, matplotlib, seaborn*  
    A Credit-Score based Model which finds the credit score from the given dataset.
