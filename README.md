@@ -5,7 +5,7 @@ I'm currently a student at **Cambridge Institute of Technology**, pursuing my Co
 
 **Skills:**  
 - Python, C, C++ ,Data Analysis ,Power BI, Tableau
-- SQL, Machine Learning 
+- SQL, Machine Learning in C++
 - Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
 ---
 
@@ -16,14 +16,8 @@ Here's a selection of some of my public repositories:
    *Languages: Python*  
    *Pkgs: numpy, pandas, scikit-learn, Faker, imblearn, matplotlib, seaborn*  
    A Credit-Score based Model which finds the credit score from the given dataset.
-   
-3. **[Guessing Game](https://github.com/yuvan0309/-guessinggame)**  
-   A fun project I forked and contributed to, showcasing my problem-solving skills in C.
 
-4. **[Library Project](https://github.com/yuvan0309/library-project)**  
-   *Languages: HTML,Python*  
-   A small web-based library management system written in HTML.
-
+***Working on ...***
 ---
 
 ### 📊 **My GitHub Stats**
