@@ -1,46 +1,55 @@
 # Hi, I'm Yuvan Shankar Raja 👋
 
-### 🎯 **About Me**  
-I'm currently a student at **Cambridge Institute of Technology**, pursuing my Computer Science Engineering while exploring my passion in Data Science and Buisness Analytics.
+### 🎯 **About Me**
 
-**Skills:**  
-- Python, C, C++ ,Data Analysis ,Power BI, Tableau
-- SQL, Machine Learning in C++
-- Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
+I’m the **Director at Ashwaruda Technologies**, where I lead and manage the intersection of **Technology and Finance**. My journey started in **Computer Science Engineering**, and over time I’ve expanded my focus into **Data Science, Business Analytics, and Financial Technology solutions**.
+
+**Skills:**
+
+* Python, C, C++
+* Data Analysis, Power BI
+* SQL, Machine Learning in C++
+* Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+* Tech Strategy & Financial Management
+
 ---
 
-### 🚀 **My Projects**  
-Here's a selection of some of my public repositories:
+### 🚀 **My Projects**
 
-1. **[CIBIL](https://github.com/yuvan0309/Credit-Score)**  
-   *Languages: Python*  
-   *Pkgs: numpy, pandas, scikit-learn, imblearn, matplotlib, seaborn*  
+A selection of some of my public repositories:
+
+1. **[CIBIL](https://github.com/yuvan0309/Credit-Score)**
+   *Languages: Python*
+   *Pkgs: numpy, pandas, scikit-learn, imblearn, matplotlib, seaborn*
    A Credit-Score based Model which finds the credit score from the given dataset.
 
 2. **Working on ...**
+
 ---
 
 ### 📊 **My GitHub Stats**
 
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Yuvan0309&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
-</div>
+</div>  
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvan0309&theme=highcontrast" alt="GitHub Streak" />
-</div>
+</div>  
 
 ---
 
 ### 🏆 **GitHub Trophies**
+
 <div align="center">
     <a href="https://github.com/Yuvan0309">
         <img src="https://github-profile-trophy.vercel.app/?username=Yuvan0309&theme=calm&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" />
     </a>
-</div>
+</div>  
 
 ---
-### 💻 **Contact**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yuvanshankarraja) or drop a message via [email](mailto:yuvan7480@gmail.com). Let’s build something amazing together!
----
+
+### 💻 **Contact**
+
+Let’s collaborate on **Tech & Finance-driven innovations**.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yuvanshankarraja) or reach me via [email](mailto:director@ashwaruda.com).
