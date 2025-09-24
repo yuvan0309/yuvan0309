@@ -2,7 +2,7 @@
 
 ### 🎯 **About Me**
 
-My journey started in **Computer Science Engineering**, and over time I’ve expanded my focus into **Data Science, Business Analytics, and Financial Technology **.
+My journey started in **Computer Science Engineering**, and over time I’ve expanded my focus into **Data Science, Business Analytics, and Financial Technology**.
 
 **Skills:**
 
