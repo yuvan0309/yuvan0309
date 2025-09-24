@@ -52,4 +52,4 @@ A selection of some of my public repositories:
 ### 💻 **Contact**
 
 Let’s collaborate on **Tech & Finance-driven innovations**.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yuvanshankarraja) or reach me via [email](mailto:director@ashwaruda.com).
+Connect with me on  [email](mailto:yuvan7480@gmail.com).
