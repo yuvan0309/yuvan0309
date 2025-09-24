@@ -2,7 +2,7 @@
 
 ### 🎯 **About Me**
 
-I’m the **Director at Ashwaruda Technologies**, where I lead and manage the intersection of **Technology and Finance**. My journey started in **Computer Science Engineering**, and over time I’ve expanded my focus into **Data Science, Business Analytics, and Financial Technology solutions**.
+My journey started in **Computer Science Engineering**, and over time I’ve expanded my focus into **Data Science, Business Analytics, and Financial Technology **.
 
 **Skills:**
 
