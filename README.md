@@ -11,7 +11,6 @@ My journey started in **Computer Science Engineering**, and over time I’ve exp
 * SQL, Machine Learning in C++
 * Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 * Tech Strategy & Financial Management
-
 ---
 
 ### 🚀 **My Projects**
